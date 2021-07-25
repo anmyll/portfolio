@@ -262,6 +262,7 @@ canvas {
   .slider__container {
     height: 50%;
     padding-bottom: 60px;
+    overflow: hidden;
   }
   .slider__item {
     padding: 10px 0;
